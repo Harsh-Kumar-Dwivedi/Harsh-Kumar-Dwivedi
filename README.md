@@ -1,3 +1,5 @@
+<!-- Profile -->
+
 ![Software Engineering Banner](https://github.com/Harsh-Kumar-Dwivedi/Harsh-Kumar-Dwivedi/blob/c2f6ff71228fd2041e4c198fe8900811ea164f4b/Software%20Engineering.png)
 
 <h1><p align="center">👋 Hello, I'm Harsh Kumar Dwivedi</p></h1>
