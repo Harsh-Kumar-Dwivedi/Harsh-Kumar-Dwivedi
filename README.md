@@ -29,6 +29,8 @@ I'm a Computer Science Engineering undergraduate at Sikkim Manipal Institute of 
 ![](https://github-contributor-stats.vercel.app/api?username=Harsh-Kumar-Dwivedi&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 <!-- Profile Views -->
-[![](https://visitcount.itsvg.in/api?id=Harsh-Kumar-Dwivedi&icon=5&color=1)](https://visitcount.itsvg.in)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Harsh-Kumar-Dwivedi&color=3f5efb&style=flat&label=Profile+Views&abbreviated=true" alt="Profile Views" height="7%" width="15%">
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
